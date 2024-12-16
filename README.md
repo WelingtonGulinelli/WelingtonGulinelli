@@ -9,7 +9,8 @@
 
 <div align="center" dir="auto">
   <a href="https://github.com/WelingtonGulinelli">
-  ![Welington GitHub stats](https://github-readme-stats.vercel.app/api?username=WelingtonGulinelli&show_icons=true&theme=merko)
+    
+![Welington GitHub stats](https://github-readme-stats.vercel.app/api?username=WelingtonGulinelli&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelingtonGulinelli&hide_progress=true)
  
