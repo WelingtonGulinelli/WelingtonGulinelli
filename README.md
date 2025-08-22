@@ -1,5 +1,5 @@
 
-## Olá, eu sou Welington Gulinelli, estou cursando Sistemas de Informação 👨‍💻
+## Olá, eu sou Welington Gulinelli, sou um Desenvolvedor Backend Junior cursando Sistemas de Informação 👨‍💻
 <div align="center">
   <a href="https://github.com/WelingtonGulinelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WelingtonGulinelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
